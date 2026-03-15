@@ -93,7 +93,7 @@ XP: 150.0
 
 ## 👨‍💻 Autor
 
-Feito com 💙 por **Pedro Araújo**
+**Pedro Araújo**
 
 [![GitHub](https://img.shields.io/badge/GitHub-Pedro--arauj0-181717?style=flat&logo=github)](https://github.com/Pedro-arauj0)
 
